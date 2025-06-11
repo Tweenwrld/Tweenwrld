@@ -1,6 +1,8 @@
 # 🌝 Hello! I am Leonard Boma. 
 ### **`"Once upon a time, a curious mind met a world of infinite possibilities. That’s where my journey in tech began. Now, I code, create, and dream bigger every day!"`**
 
+
+
 ## 🎨🦺 Details, Work and Research
 - I'm currently a Software Engineer Student under [Power Learn Project](https://academy.powerlearnprojectafrica.org/) specializing in MERN Stack,
 -  Building on [Sui]( https://docs.sui.io/) Ecosystem using move language as a blockchain full-stack developer under [Adamur](https://www.adamur.io/).
@@ -33,6 +35,7 @@ ___
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <br />
+
 
 
 # 📊 GitHub Stats:
