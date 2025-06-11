@@ -1,6 +1,8 @@
 # 🌝 Hello! I am Leonard Boma. 
 ### **`"Once upon a time, a curious mind met a world of infinite possibilities. That’s where my journey in tech began. Now, I code, create, and dream bigger every day!"`**
+<br />
 
+---
 
 
 ## 🎨🦺 Details, Work and Research
@@ -8,10 +10,11 @@
 -  Building on [Sui]( https://docs.sui.io/) Ecosystem using move language as a blockchain full-stack developer under [Adamur](https://www.adamur.io/).
 - Also learning about the blockchain technology on [HackQuest](https://www.hackquest.io?type=email-check&inviteCode=DZWVDWGKY6)
 - Work [Blog Website](https://tweenwrld.github.io/Blog-Website/), [Clinic-Mngmt-System-ERD](https://github.com/Tweenwrld/Clinic_Management_System/blob/main/Clinic-mngmt-ERD.png), [Covid-19-Global-Tracker-App](https://tweenwrld-covid-19-global-tracker-appapp-qrgjwe.streamlit.app)
+<br />
 
 
+---
 
-___
 # 💻 Tech Stack:
 
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
@@ -34,15 +37,19 @@ ___
 <img align="left" alt="ViteJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+
 <br />
 
+----
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tweenwrld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tweenwrld&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tweenwrld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
 
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tweenwrld&theme=radical&no-frame=false&no-bg=true&margin-w=4)
