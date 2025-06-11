@@ -1,4 +1,4 @@
-# 🌝 Hello! They call me Leonard Boma. 
+# 🌝 Hello! I am Leonard Boma. 
 ### **`"Once upon a time, a curious mind met a world of infinite possibilities. That’s where my journey in tech began. Now, I code, create, and dream bigger every day!"`**
 
 ## 🎨🦺 Details, Work and Research
