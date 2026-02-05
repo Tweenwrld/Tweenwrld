@@ -1,4 +1,4 @@
-# 🌝 Hello! I am Leonard Boma. 
+# 🌝 Hello! I am Leonard Boma. My [Portfolio](https://leo-portfolio-puce.vercel.app/)
 ### **`"Once upon a time, a curious mind met a world of infinite possibilities. That’s where my journey in tech began. Now, I code, create, and dream bigger every day!"`**
 <br />
 
