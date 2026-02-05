@@ -6,7 +6,7 @@
 
 
 ## 🎨🦺 Details, Work and Research
-- I'm currently a Software Engineer Student under [Power Learn Project](https://academy.powerlearnprojectafrica.org/) specializing in MERN Stack,
+- Did Software Developer program under [Power Learn Project](https://academy.powerlearnprojectafrica.org/) specializing in MERN Stack,
 -  Building on [Sui]( https://docs.sui.io/) Ecosystem using move language as a blockchain full-stack developer under [Adamur](https://www.adamur.io/).
 - Also learning about the blockchain technology on [HackQuest](https://www.hackquest.io?type=email-check&inviteCode=DZWVDWGKY6)
 - Work 
